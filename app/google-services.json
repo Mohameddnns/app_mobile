@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "449361900971",
+    "firebase_url": "https://projetoimepac-default-rtdb.firebaseio.com",
+    "project_id": "projetoimepac",
+    "storage_bucket": "projetoimepac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449361900971:android:65000cfc5c797964604eee",
+        "android_client_info": {
+          "package_name": "br.com.imepac20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJyugbW64LBNY-yzpRiTxmfjaC3qx2J-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
